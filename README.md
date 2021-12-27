@@ -11,3 +11,4 @@ This model is based on the developments suggested within my undergrad internship
 **imageacc_model.h5**: Pretrained classifier model for 3 different classes based on Siamese NN backbone.\
 **annotation_utils**:Notebook includes codes on preprocessing data for object detector and classifier.\
 **Initial_SNN_Model_Training_Phase_1/2**: Consists of details on extraction of picture data required for training along with progress and changes made on the model so far.\
+**YOLO_Based_Model_Internship_Report_**: The report whose recommendations lead to the inception of this project. 
