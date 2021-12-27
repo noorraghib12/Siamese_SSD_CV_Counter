@@ -11,3 +11,7 @@ This model is based on the developments suggested within my undergrad internship
 **annotation_utils**:Notebook includes codes on preprocessing data for object detector and classifier.\
 **Initial_SNN_Model_Training_Phase_1/2**: Consists of details on extraction of picture data required for training along with progress and changes made on the model so far.\
 **YOLO_Based_Model_Internship_Report_**: My undergrand internship report whose recommendations led to the inception of this project. 
+
+
+
+### DISCLAIMER: THIS REPOSITORY IS SOLELY MADE FOR ASSISTING IN SHOWCASING PORTFOLIO OF MOHAMMAD RAGHIB NOOR
